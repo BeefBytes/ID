@@ -1,0 +1,11 @@
+{
+	"name": "Edy",
+	"username": "edy",
+	"ssh-keys": [
+		{
+			"key": "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAuMEGIqfsXxH2pRc0IT6nIZXrJFW5P9jYTQK+d5JvLco5Mo+zT8K8qYaXJ+oZJVP1WVI3b4r7nNtiXUsI0aolVPgiRX2DNJS2KcWmd5tBiWt7NaJ9uVxPHVz9sya9E/S543z5tpEIJ0NZ05bgFObQwuCgbro2FqY5duNvdVArIeEZ+BNpiL6LTXq2NQAjgMK0QUjfH4C42RdS1ZxJ7/dTLaHKMmGylKxgdqGE+/zYd6AXZrBXW30e2LauerX7yjBog1jrlE6UL5rCkXCTZSzkagSrAIbYCTWQK4Z4P9rpgmqdWsT7WIL8nROoHQ3jm4BM9LjlcJuXkuubCnrEylW+7Q== rsa-key-20170330",
+			"pref": 10
+		}
+	],
+	"pgp-keys":[{}]
+}
