@@ -1,0 +1,11 @@
+{
+	"name": "Matthew McCune",
+	"username": "mattrick",
+	"ssh-keys": [
+		{
+			"key": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDMpQ/0zDzytl6W4k/Sgg3MECWi3VceTMdgYtfQUM5rSNB8Oc6HPE/YDRtX0setVEUXp6aovfB+/hK2kkKd2dQCq6QEsYAlX6O4TdoUy1/0KALYafiWp3Vt0iHvDuAcO46jl8sGNu7V5nfDeTB6kqIfA8+u8u1lhGa1ylIkBjjeEa/uPKhIs4D3vOEt1EDl++c3jsnaOwS/GxX/pxf2lFrI8WVcb6UChzWxkDAbVaaKvXhj1H/cjuPW7f5NfsAHXgdcIMa8HppfDEJan23J7nPTnndhUtv4pfkS5x9aHMKL2kUOOPzLsdeqBb615rjWqIE3DaZhGN9015TRfhRThr903Vx36+aYBN8sDT09OwnpQuxsqJfScQZvozCajTxvKg/074STSByECkKRLFRyfNXPxXEYgiJQbcHbCNTq6d4BC5tR18SWQXCWHiWSXlG5EhLzyG4nbXZw2JpEEutRjdTvFXEyf0RSjn/AlfGhc66aLGc7GqhlWlDKz+JTlZuok8oR8lRkHdjUDS5DRDp3jnjhx/adCav5LlWaZTV99tJI8fg4pEe22aOVTiOQ1TivQ136NaFqL4dqOU5HezxIopn6P/UiBc179sIZcWfGbwx1bKnBmz5lDlXArJSSFySphge2GE1K8aBu8YdEeD0IolvGlweMd3liwrn72ADeCflgew== git@mattrick.me",
+			"pref": 10
+		}
+	],
+	"pgp-keys":[]
+}
